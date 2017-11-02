@@ -1,0 +1,3 @@
+rootProject.name = 'RPrimitiveMobile'
+
+include ':app'
